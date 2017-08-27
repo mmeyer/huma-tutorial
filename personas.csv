@@ -1,0 +1,7 @@
+id,persona_name,gender,shopper_type,age_range,income,family_status
+1,Bob,m,looking_for_bargain,millennials,low,single
+2,Sara,f,looking_for_quality,baby-boomer,high,married
+3,Linda,f,looking_for_inspiration, generation-x,medium,single
+4,Tom,m,does_not_know_what_to_get, millennials,single
+5,Lisa,f,shops_for_family, generation-x,high,married
+6,Peter,m,looking_for_wedding_shopping, millennials,medium,single
