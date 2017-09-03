@@ -19,8 +19,11 @@ With that instructions you will install the following required software:
 What it does not yet install is the following software, which you can install with the following commands
 
 `conda install -c graphviz`
+
 `pip install matplotlib`
+
 `pip install graphviz`
+
 `pip install pydot`
 
 
@@ -36,15 +39,17 @@ in the root folder of this Github repository that just you just checkout.
 
 You should get the following message back if you installed all required software versions correctly, only the versions shown might change.
 
-`scipy: 0.19.1`
-`numpy: 1.13.1`
-`matplotlib: 2.0.2`
-`pandas: 0.20.3`
-`sklearn: 0.18.2`
-`theano: 0.9.0`
-`tensorflow: 1.2.1`
-`Using TensorFlow backend.`
-`keras: 2.0.6`
+````
+scipy: 0.19.1
+numpy: 1.13.1
+matplotlib: 2.0.2
+pandas: 0.20.3
+sklearn: 0.18.2
+theano: 0.9.0
+tensorflow: 1.2.1
+Using TensorFlow backend.
+keras: 2.0.6
+````
 
 If that is the case you start with the following command
 
