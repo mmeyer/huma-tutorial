@@ -1,5 +1,6 @@
-## Installation instructions for Huma tutorial
-=======================
+Installation instructions for Huma tutorial
+===========================================
+
 
 To install the required software on your machine with your preferred OS you and follow these instructions here: [https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/](https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/)
 
